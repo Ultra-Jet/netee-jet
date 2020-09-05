@@ -1,6 +1,9 @@
-### Hi there 👋
-
-<!--
+###嗨那里
+这里是来自福州大学一位18级的计算机学生
+平时喜欢打游戏和看视频，也喜欢打球
+会一点点的c和c ++
+以及一点点的前端开发经历，希望能和你一起进步
+<！
 **netee-jet/netee-jet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
